@@ -1,0 +1,9 @@
+Methods:
+- Created an account class with a balance
+- Used self() to bound a variable
+- Created multiple methods and functions (deposit, withdraw, show_balance)
+    - Method Deposit: Let user put in money into the bank account
+    - Method Withdraw: Let user take money from bank account
+    - Method show_balance: Let user know what current balance is
+- Named the account
+- Bounded the name to each of the methods

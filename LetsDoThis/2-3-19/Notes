@@ -1,0 +1,8 @@
+Dictionary -
+- Mapping of unique keys and values
+- They are mutable (able to be changed)
+- They are unordered so the order wont be reflected
+- Its a collection which is unordered, changeable, and indexed
+- Used with curly brackets({})
+- ex: thisdict = {"brand": "Ford", "model": "Mustang"}
+- Entry separated by commas (,)

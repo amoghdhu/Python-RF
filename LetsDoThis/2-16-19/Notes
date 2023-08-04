@@ -1,0 +1,15 @@
+Intro to Object Oriented Python:
+- Classes provides a bundling data and functionality together
+- Creates a new type of object
+- Called __init__ method whenever class is constructed
+- self() refers to bound variable
+- Added a type of dictionary with set keys and values
+- Used a replacement fields to fill in sentence
+
+More on Object Oriented Python:
+- Took previous code to add instances, constructors
+- on() function tells you the value of the specific key
+- Found alternative to let user know what value correlates to each key
+- Made variables that correlated to strings
+- __dict__ attribute acts as a dictionary
+

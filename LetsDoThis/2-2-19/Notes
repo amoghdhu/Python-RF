@@ -1,0 +1,12 @@
+Ranges -
+- Generates sequences of numbers through the form of a list
+- Has two sets of parameters
+- Generates lists of numbers to iterate over with loops
+- ex: range(10) generates list of 10 values
+
+Tuples -
+- Sequence of immutable python objects/strings
+- Sequence just like lists
+- Differences are tuples cant be changed and one uses parentheses
+  where as the other using square brackets
+- Created by putting different comma-separated values

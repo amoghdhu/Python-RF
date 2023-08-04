@@ -1,0 +1,9 @@
+Dictionary Part 2 -
+- Values that correspond to a number value
+- Inserted variable that make the value number correspond to a letter (direction)
+- Put while true loop in which allows you to keep guessing if invalid input
+- Used keys() function
+    - keys() returns a view object that displays a list of all the keys
+    - when dict. changed, the view object also reflects these changes
+- Let user know what are the options available to go in
+- Made sure if invalid input, let user know if that's not a valid direction

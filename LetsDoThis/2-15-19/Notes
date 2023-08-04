@@ -1,0 +1,7 @@
+Dictionary Challenge 2-
+- Gave instructions for the user to tell them what the game is about
+- Numbers that correspond to certain text
+- Used dictionary keys to correspond to the number values
+- Added while true loop for the user to constantly answer incorrect values
+- Used len() function to determine of length of dictionary
+- Used if loops to determine the location of the users input
